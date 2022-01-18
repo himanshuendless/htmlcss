@@ -1,0 +1,29 @@
+/* Custom CSS for Recipe-Demo Repository */
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 1180px;
+    margin: 0 auto;
+}
+
+.recipe-img {
+    width: 600px;
+    height: auto;
+}
+
+.seventy {
+    max-width: 70%;
+    float: left;
+    display: inline-block;
+}
+
+.thirty {
+    max-width: 30%;
+}
+
+.clr {
+    clear: both;
+}
+
